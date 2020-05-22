@@ -5,8 +5,7 @@
   "cordova": {
     "id": "cordova-plugin-braintree-3ds",
     "platforms": [
-      "android",
-      "ios"
+      "android"
     ]
   },
   "repository": {
